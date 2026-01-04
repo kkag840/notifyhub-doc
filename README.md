@@ -44,7 +44,6 @@ Example use cases:
 
 ---
 
-## ☁️ Cloud Platforms Used
 ## ☁️ Cloud Platforms Used (Problems & Fixes)
 
 | Platform | Used For | Problem Faced | How It Was Fixed |
