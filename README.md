@@ -41,20 +41,6 @@ Example use cases:
 - Community platforms
 - Real-time communication services
 
----
-
-## 🧩 High-Level Architecture
-Client (Web / Mobile)
-|
-v
-API Gateway
-|
-v
-User Service
-|
-v
-Service Registry (Eureka)
-
 
 ---
 
